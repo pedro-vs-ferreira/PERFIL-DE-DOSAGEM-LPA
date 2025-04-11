@@ -17,23 +17,23 @@ O código processa um conjunto de dados de saúde, categorizando variáveis e ge
 1️⃣ **Histograma de Idade por Categoria de Risco**  
    - **Tipo**: Histograma  
    - **O que mostra?** A distribuição da idade dentro das faixas de risco  
-   - **Arquivo gerado**: `grafico_histograma_idade.png`  
+   ![Histograma de Idade](grafico_histograma_idade.png)
 
 2️⃣ **Boxplot do IMC por Categoria de Risco**  
    - **Tipo**: Boxplot  
    - **O que mostra?** A variação do IMC dentro dos grupos de risco, incluindo outliers  
-   - **Arquivo gerado**: `grafico_boxplot_imc.png`  
+   ![Boxplot do IMC](grafico_boxplot_imc.png) 
 
 3️⃣ **Scatterplot: Relação entre Idade e LPA**  
    - **Tipo**: Gráfico de dispersão  
    - **O que mostra?** A relação entre idade e LPA, destacando padrões por categoria de risco  
-   - **Arquivo gerado**: `grafico_scatterplot_lpa_idade.png`  
+   ![Scatterplot LPA x Idade](grafico_scatterplot_lpa_idade.png)
 
 ### 🔹 **Gráficos Categóricos**
 4️⃣ **Distribuição de Variáveis por Categoria de Risco**  
    - **Tipo**: Barras empilhadas  
    - **O que mostra?** Frequência das condições de saúde (Diabetes, Hipertensão, Histórico Familiar, etc.)  
    - **Arquivos gerados**:  
-     - `grafico_Baixo Risco.png`  
-     - `grafico_Risco Intermediário.png`  
-     - `grafico_Alto Risco.png`  
+     ![Baixo Risco](grafico_Baixo%20Risco.png) 
+     ![Risco Intermediário](grafico_Risco%20Intermediário.png)
+     ![Alto Risco](grafico_Alto%20Risco.png)
